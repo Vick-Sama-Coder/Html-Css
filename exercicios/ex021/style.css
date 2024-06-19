@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+body{
+
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-attachment: scroll;
+ main{
+   
+  }
+header h1{
+    display: flex;
+    justify-content: center;
+     padding: 5px 5px 5px;
+     color: white;
+ 
+ }
+ #gotei{
+     color: white;
+     margin: 5px;
+     padding:5px 10px;
+     border-radius: 10px;
+ }
+ #sama{
+     text-align: center;
+ }
+ #sama:hover{
+    background-color: goldenrod;
+    padding: 5px 0px;
+    margin: 10px;
+ }
+ header{
+     padding: 5px;
+ }
+ nav{
+     color: white;
+     list-style: none;
+     display: flex;
+     justify-content: space-between;
+ }
+ a{
+     text-decoration: double;
+     font-weight: bolder;
+     color:white;
+ }
+ 
+ footer{
+     text-align: center;
+     padding: 10px;
+     color: white;
+     font-weight: bolder;
+ }
+ #kurosaki{
+     margin: 5px;
+     padding-left: 10px;
+ }
+ #aizen{
+     margin: 0px;
+     padding: 0px 5px 5px 5px;
+     color: white;
+ }
+ #soul{
+     margin: 5px;
+     padding: 0px 0px 5px 5px;
+ }
