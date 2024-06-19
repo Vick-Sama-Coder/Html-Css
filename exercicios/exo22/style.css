@@ -1,0 +1,22 @@
+@charset  'UtF-8';
+
+.quadrado{
+    border: 1px solid black;  
+    display: inline-block;
+    border-radius: 10px;
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+}
+
+
+section#q1{
+    background-color: skyblue;
+}
+#q2{
+    background-image: linear-gradient(to bottom, orange, cyan);
+}
+#q3{
+    background-image: url(imagens/background002.jpg);
+
+}
