@@ -1,0 +1,18 @@
+@charset 'UTF-8';
+
+.block{
+    background-image: url('../Images/wallpaper003.jpg');
+    height: 200px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+#b1{
+    background-position: right top;
+}
+#b2{
+    background-position: center center;
+}
+#b3{
+    background-position: left bottom;
+}
